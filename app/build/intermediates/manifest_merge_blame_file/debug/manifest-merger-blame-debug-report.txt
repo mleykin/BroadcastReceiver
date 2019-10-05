@@ -1,0 +1,35 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.niit.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="14" />
+9-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:7:5-15:19
+12        android:debuggable="true"
+13        android:label="ServiceExample" >
+13-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:7:18-48
+14        <receiver
+14-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:9:9-13:16
+15            android:name="com.niit.android.OnBootReceiver"
+15-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:9:19-49
+16            android:enabled="true"
+16-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:9:50-72
+17            android:exported="false" >
+17-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:9:73-97
+18            <intent-filter>
+18-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:10:7-12:23
+19                <action android:name="android.intent.action.TIME_SET" />
+19-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:11:9-64
+19-->C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:11:17-62
+20            </intent-filter>
+21        </receiver>
+22    </application>
+23
+24</manifest>

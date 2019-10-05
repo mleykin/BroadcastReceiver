@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:7:5-15:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:7:18-48
+receiver#com.niit.android.OnBootReceiver
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:9:9-13:16
+	android:enabled
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:9:50-72
+	android:exported
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:9:73-97
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:9:19-49
+intent-filter#action:name:android.intent.action.TIME_SET
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:10:7-12:23
+action#android.intent.action.TIME_SET
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:11:9-64
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml:11:17-62
+uses-sdk
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:20:5-43
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\BroadcastReceiver\app\src\main\AndroidManifest.xml
